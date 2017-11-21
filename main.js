@@ -10,12 +10,6 @@ function getNumber() {
 var randomNumber = Math.floor(Math.random() * (4))
 var number = document.getElementById("userInput").value
 
-if (number == "" || number == null){
-
-  alert("Please Enter A Number")
-  return;
-}
-
   var request = new XMLHttpRequest();
   request.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
