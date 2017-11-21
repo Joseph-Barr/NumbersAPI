@@ -1,7 +1,6 @@
 const url = "http://numbersapi.com/"
 
 
-
 type = ["trivia", "math", "year", "date"]
 
 

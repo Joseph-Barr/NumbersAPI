@@ -37,9 +37,8 @@ h2 {
 
 #input {
 
-  margin-left: 25%;
+  margin-left: 20%;
   margin-right: 25%;
-  background: green;
 
 }
 
@@ -63,7 +62,7 @@ h2 {
 
 #userInput {
 
-  width: 75%;
+  width: 100%;
   height: 50px;
   border-radius: 10px;
   border: none;
